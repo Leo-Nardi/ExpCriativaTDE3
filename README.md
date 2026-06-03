@@ -36,9 +36,16 @@ ExpCriaTDE3/
 - CSS3
 
 ## Como Visualizar
-
+Acesse o link: https://exp-criativa-tde-3.vercel.app/
 Abra o arquivo `index.html` diretamente no navegador. Não é necessário servidor ou instalação de dependências.
 
 ## Sobre a Atleta
 
 **Hillary Vitória Porto Trevizan** tem 18 anos, pratica esgrima desde os 10 anos e cursa Educação Física na Universidade Tecnológica Federal do Paraná (UTFPR). Possui classificação nos rankings paranaense, nacional e mundial.
+
+---
+
+## Autor
+
+**Leonardo Nardi** — 
+**João Vicente** —
